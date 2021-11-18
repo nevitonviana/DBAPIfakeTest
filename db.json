@@ -1,8 +1,9 @@
 {
-  "posts": [
+  "auth": [
     {
       "id": 1,
-      "title": "hello"
+      "email": "teste@teste.com",
+      "password": "123456"
     }
   ],
   "profile": {
