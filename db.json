@@ -1,1 +1,6 @@
-
+[
+  "auth":[
+  {"id": 1, "email":"teste@teste.com", "senha": "123456",},
+  ], 
+  
+]
